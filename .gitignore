@@ -1,0 +1,6 @@
+# Track only images and videos folders
+/*
+!images/
+!videos/
+!.gitignore
+!games-list.json
