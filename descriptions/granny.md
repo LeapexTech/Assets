@@ -27,7 +27,9 @@ Use the controls listed below to navigate and interact with the game. Complete o
 - Press spacebar to interact
 
 ## Platform Support
-Granny is a spine-chilling horror  game that challenges players to escape from a sinister house while evading the relentless pursuit of Granny. Players must navigate through various rooms, solve intricate  puzzles, and utilize stealth tactics to avoid detection. The game offers multiple escape routes, including assembling a car to drive away, signaling for help using a flare gun and phone, or unlocking the main door. can be played on desktop browsers and is compatible with most modern systems including mobile devices.
 
-## Why Play Granny is a spine-chilling horror  game that challenges players to escape from a sinister house while evading the relentless pursuit of Granny. Players must navigate through various rooms, solve intricate  puzzles, and utilize stealth tactics to avoid detection. The game offers multiple escape routes, including assembling a car to drive away, signaling for help using a flare gun and phone, or unlocking the main door.?
-Granny is a spine-chilling horror  game that challenges players to escape from a sinister house while evading the relentless pursuit of Granny. Players must navigate through various rooms, solve intricate  puzzles, and utilize stealth tactics to avoid detection. The game offers multiple escape routes, including assembling a car to drive away, signaling for help using a flare gun and phone, or unlocking the main door. offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.
+Granny can be played on desktop browsers and is compatible with most modern systems including mobile devices.
+
+## Why Play
+
+Granny offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.

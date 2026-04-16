@@ -27,7 +27,9 @@ Use the controls listed below to navigate and interact with the game. Complete o
 - Press spacebar to interact
 
 ## Platform Support
-Grow A Garden is an engaging farming  simulation game that invites players to cultivate their own virtual gardens. Starting with a modest plot, players plant seeds, nurture crops, and harvest produce to earn in-game currency known as Sheckles. The  game offers a relaxing yet rewarding experience, appealing to both casual gamers and dedicated  simulation enthusiasts. can be played on desktop browsers and is compatible with most modern systems including mobile devices.
 
-## Why Play Grow A Garden is an engaging farming  simulation game that invites players to cultivate their own virtual gardens. Starting with a modest plot, players plant seeds, nurture crops, and harvest produce to earn in-game currency known as Sheckles. The  game offers a relaxing yet rewarding experience, appealing to both casual gamers and dedicated  simulation enthusiasts.?
-Grow A Garden is an engaging farming  simulation game that invites players to cultivate their own virtual gardens. Starting with a modest plot, players plant seeds, nurture crops, and harvest produce to earn in-game currency known as Sheckles. The  game offers a relaxing yet rewarding experience, appealing to both casual gamers and dedicated  simulation enthusiasts. offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.
+Grow A Garden can be played on desktop browsers and is compatible with most modern systems including mobile devices.
+
+## Why Play
+
+Grow A Garden offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.

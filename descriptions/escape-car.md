@@ -27,7 +27,9 @@ Use the controls listed below to navigate and interact with the game. Complete o
 - Press spacebar to interact
 
 ## Platform Support
-Escape Car is an exhilarating  driving  game that challenges players to navigate through intense police chases in a bustling city environment. As a fugitive behind the wheel, your objective is to outmaneuver law enforcement by skillfully dodging obstacles and utilizing the urban landscape to your advantage. The game offers a variety of  vehicles, each with unique attributes, allowing players to select the car that best suits their escape strategy. can be played on desktop browsers and is compatible with most modern systems including mobile devices.
 
-## Why Play Escape Car is an exhilarating  driving  game that challenges players to navigate through intense police chases in a bustling city environment. As a fugitive behind the wheel, your objective is to outmaneuver law enforcement by skillfully dodging obstacles and utilizing the urban landscape to your advantage. The game offers a variety of  vehicles, each with unique attributes, allowing players to select the car that best suits their escape strategy.?
-Escape Car is an exhilarating  driving  game that challenges players to navigate through intense police chases in a bustling city environment. As a fugitive behind the wheel, your objective is to outmaneuver law enforcement by skillfully dodging obstacles and utilizing the urban landscape to your advantage. The game offers a variety of  vehicles, each with unique attributes, allowing players to select the car that best suits their escape strategy. offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.
+Escape Car can be played on desktop browsers and is compatible with most modern systems including mobile devices.
+
+## Why Play
+
+Escape Car offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.

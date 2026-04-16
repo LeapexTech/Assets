@@ -27,7 +27,9 @@ Use the controls listed below to navigate and interact with the game. Complete o
 - Press spacebar to interact
 
 ## Platform Support
-Bridge Race is an engaging and competitive mobile  game developed by Supersonic Studios LTD, where players collect colored blocks to construct bridges and outpace their opponents to the finish line. With over 1,000 levels featuring diverse mechanisms like sliders, trampolines, zip lines, ladders, and elevators, the game offers a dynamic and challenging experience. can be played on desktop browsers and is compatible with most modern systems including mobile devices.
 
-## Why Play Bridge Race is an engaging and competitive mobile  game developed by Supersonic Studios LTD, where players collect colored blocks to construct bridges and outpace their opponents to the finish line. With over 1,000 levels featuring diverse mechanisms like sliders, trampolines, zip lines, ladders, and elevators, the game offers a dynamic and challenging experience.?
-Bridge Race is an engaging and competitive mobile  game developed by Supersonic Studios LTD, where players collect colored blocks to construct bridges and outpace their opponents to the finish line. With over 1,000 levels featuring diverse mechanisms like sliders, trampolines, zip lines, ladders, and elevators, the game offers a dynamic and challenging experience. offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.
+Bridge Race can be played on desktop browsers and is compatible with most modern systems including mobile devices.
+
+## Why Play
+
+Bridge Race offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.

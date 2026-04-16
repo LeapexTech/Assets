@@ -27,7 +27,9 @@ Use the controls listed below to navigate and interact with the game. Complete o
 - Press spacebar to interact
 
 ## Platform Support
-Twerk Race 3D is an engaging and humorous running  game that combines obstacle courses with dance battles. Players navigate through dynamic tracks, collecting various foods that influence their character's physique—indulging in high-calorie snacks like burgers and donuts increases size, while healthier options like salads slim them down. This strategic choice impacts the player's ability to overcome obstacles and ultimately determines success in the final twerking showdown. can be played on desktop browsers and is compatible with most modern systems including mobile devices.
 
-## Why Play Twerk Race 3D is an engaging and humorous running  game that combines obstacle courses with dance battles. Players navigate through dynamic tracks, collecting various foods that influence their character's physique—indulging in high-calorie snacks like burgers and donuts increases size, while healthier options like salads slim them down. This strategic choice impacts the player's ability to overcome obstacles and ultimately determines success in the final twerking showdown.?
-Twerk Race 3D is an engaging and humorous running  game that combines obstacle courses with dance battles. Players navigate through dynamic tracks, collecting various foods that influence their character's physique—indulging in high-calorie snacks like burgers and donuts increases size, while healthier options like salads slim them down. This strategic choice impacts the player's ability to overcome obstacles and ultimately determines success in the final twerking showdown. offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.
+Twerk Race 3D can be played on desktop browsers and is compatible with most modern systems including mobile devices.
+
+## Why Play
+
+Twerk Race 3D offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.

@@ -33,9 +33,8 @@ Use the controls listed below to navigate and interact with the game. Complete o
 
 ## Platform Support
 
-Bit Planes is a fast-paced 2D aerial combat  game that pays homage to classic side-scrolling shooters. Players pilot pixelated fighter planes, engaging in dynamic dogfights against AI opponents or other players. The game offers various modes, including Deathmatch, Teams, Duel, and Survival, each presenting unique challenges. With its retro-inspired graphics and responsive controls, Bit Planes delivers an exhilarating flight experience that balances strategy, reflexes, and aerial acrobatics. can be played on desktop browsers and is compatible with most modern systems including mobile devices.
+Bit Planes can be played on desktop browsers and is compatible with most modern systems including mobile devices.
 
 ## Why Play
 
-Bit Planes is a fast-paced 2D aerial combat  game that pays homage to classic side-scrolling shooters. Players pilot pixelated fighter planes, engaging in dynamic dogfights against AI opponents or other players. The game offers various modes, including Deathmatch, Teams, Duel, and Survival, each presenting unique challenges. With its retro-inspired graphics and responsive controls, Bit Planes delivers an exhilarating flight experience that balances strategy, reflexes, and aerial acrobatics.?
-Bit Planes is a fast-paced 2D aerial combat  game that pays homage to classic side-scrolling shooters. Players pilot pixelated fighter planes, engaging in dynamic dogfights against AI opponents or other players. The game offers various modes, including Deathmatch, Teams, Duel, and Survival, each presenting unique challenges. With its retro-inspired graphics and responsive controls, Bit Planes delivers an exhilarating flight experience that balances strategy, reflexes, and aerial acrobatics. offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.
+Bit Planes offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.

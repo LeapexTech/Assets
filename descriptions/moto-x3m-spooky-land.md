@@ -27,7 +27,9 @@ Use the controls listed below to navigate and interact with the game. Complete o
 - Press spacebar to interact
 
 ## Platform Support
-Moto X3M Spooky Land is the sixth installment in the acclaimed Moto X3M series, offering a thrilling Halloween-themed  motorcycle racing experience. Players navigate through 32 haunted levels filled with eerie obstacles like bone spikes, green slime, and moving platforms, all designed to test reflexes and precision. The  game's responsive physics and intuitive controls allow for seamless stunts and flips, enhancing the fast-paced gameplay. can be played on desktop browsers and is compatible with most modern systems including mobile devices.
 
-## Why Play Moto X3M Spooky Land is the sixth installment in the acclaimed Moto X3M series, offering a thrilling Halloween-themed  motorcycle racing experience. Players navigate through 32 haunted levels filled with eerie obstacles like bone spikes, green slime, and moving platforms, all designed to test reflexes and precision. The  game's responsive physics and intuitive controls allow for seamless stunts and flips, enhancing the fast-paced gameplay.?
-Moto X3M Spooky Land is the sixth installment in the acclaimed Moto X3M series, offering a thrilling Halloween-themed  motorcycle racing experience. Players navigate through 32 haunted levels filled with eerie obstacles like bone spikes, green slime, and moving platforms, all designed to test reflexes and precision. The  game's responsive physics and intuitive controls allow for seamless stunts and flips, enhancing the fast-paced gameplay. offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.
+Moto X3M Spooky Land can be played on desktop browsers and is compatible with most modern systems including mobile devices.
+
+## Why Play
+
+Moto X3M Spooky Land offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.

@@ -25,7 +25,9 @@ Navigate through the game using your keyboard and mouse. Complete objectives, ov
 - Spacebar to interact or confirm
 
 ## Platform Support
+
 Velocity Rush can be played on desktop browsers and is compatible with most modern systems including mobile devices.
 
-## Why Play Velocity Rush?
-Velocity Rush offers an enjoyable gaming experience with engaging content and fun challenges. Perfect for casual gamers looking for entertainment and entertainment.
+## Why Play
+
+Velocity Rush offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.

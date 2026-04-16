@@ -27,7 +27,9 @@ Use the controls listed below to navigate and interact with the game. Complete o
 - Right Mouse Click to interact
 
 ## Platform Support
-Snow Rider 3D is an exhilarating online sledding  game that immerses players in a high-speed adventure down snow-covered mountain slopes. As you navigate through the icy terrain, you'll dodge obstacles like trees, rocks, and snowmen, all while collecting festive gift boxes to unlock new sled designs. The game's intuitive controls and stunning 3D graphics create a captivating winter  sports experience accessible directly from your browser, with no downloads required. can be played on desktop browsers and is compatible with most modern systems including mobile devices.
 
-## Why Play Snow Rider 3D is an exhilarating online sledding  game that immerses players in a high-speed adventure down snow-covered mountain slopes. As you navigate through the icy terrain, you'll dodge obstacles like trees, rocks, and snowmen, all while collecting festive gift boxes to unlock new sled designs. The game's intuitive controls and stunning 3D graphics create a captivating winter  sports experience accessible directly from your browser, with no downloads required.?
-Snow Rider 3D is an exhilarating online sledding  game that immerses players in a high-speed adventure down snow-covered mountain slopes. As you navigate through the icy terrain, you'll dodge obstacles like trees, rocks, and snowmen, all while collecting festive gift boxes to unlock new sled designs. The game's intuitive controls and stunning 3D graphics create a captivating winter  sports experience accessible directly from your browser, with no downloads required. offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.
+Snow Rider 3D can be played on desktop browsers and is compatible with most modern systems including mobile devices.
+
+## Why Play
+
+Snow Rider 3D offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.

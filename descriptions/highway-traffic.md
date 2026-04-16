@@ -31,8 +31,8 @@ Accelerate through highway traffic while avoiding collisions. Navigate between v
 
 ## Platform Support
 
-Highway Traffic can be played on desktop browsers and is compatible with most modern systems.
+Highway Traffic can be played on desktop browsers and is compatible with most modern systems including mobile devices.
 
-## Why Play Highway Traffic?
+## Why Play
 
-Highway Traffic offers an adrenaline-pumping driving experience where you must navigate busy roads with precision and quick reflexes. Perfect for those who love fast-paced, skill-based racing challenges.
+Highway Traffic offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.

@@ -27,7 +27,9 @@ Use the controls listed below to navigate and interact with the game. Complete o
 - Press spacebar to interact
 
 ## Platform Support
-Spiral Roll is an engaging  arcade game that challenges players to carve spirals from wood using a chisel, aiming to destroy obstacles and progress through increasingly complex levels. The  game's intuitive tap-and-hold mechanics make it accessible to players of all ages, while its escalating difficulty ensures a satisfying experience for those seeking a challenge. As players master the art of creating perfect spirals, they can unlock new chisels and environments, adding variety and replayability to the gameplay. can be played on desktop browsers and is compatible with most modern systems including mobile devices.
 
-## Why Play Spiral Roll is an engaging  arcade game that challenges players to carve spirals from wood using a chisel, aiming to destroy obstacles and progress through increasingly complex levels. The  game's intuitive tap-and-hold mechanics make it accessible to players of all ages, while its escalating difficulty ensures a satisfying experience for those seeking a challenge. As players master the art of creating perfect spirals, they can unlock new chisels and environments, adding variety and replayability to the gameplay.?
-Spiral Roll is an engaging  arcade game that challenges players to carve spirals from wood using a chisel, aiming to destroy obstacles and progress through increasingly complex levels. The  game's intuitive tap-and-hold mechanics make it accessible to players of all ages, while its escalating difficulty ensures a satisfying experience for those seeking a challenge. As players master the art of creating perfect spirals, they can unlock new chisels and environments, adding variety and replayability to the gameplay. offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.
+Spiral Roll can be played on desktop browsers and is compatible with most modern systems including mobile devices.
+
+## Why Play
+
+Spiral Roll offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.

@@ -19,13 +19,9 @@ Snail Bob 2 follows the sequel to the popular puzzle platformer. Help Bob the sn
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
 
 ## Platform Support
-Snail Bob 2 can be played on desktop browsers and is compatible with most modern systems.
 
-## Tips & Tricks
-- Take your time to master the controls
-- Practice with easier levels first
-- Experiment with different strategies
-- Complete all challenges for maximum enjoyment
+Snail Bob 2 can be played on desktop browsers and is compatible with most modern systems including mobile devices.
 
-## Why Play Snail Bob 2?
-Snail Bob 2 offers a perfect balance of entertainment and challenge. Whether you're looking for a casual gaming session or a more competitive experience, this game delivers engaging content that keeps you coming back for more.
+## Why Play
+
+Snail Bob 2 offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.
