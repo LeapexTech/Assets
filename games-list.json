@@ -27,6 +27,7 @@
     "dune",
     "edys-car-simulator",
     "escape-car",
+    "escape-tsunami-for-brainrots",
     "fast-food-rush",
     "fireboy-watergirl-light-temple",
     "fireboy-watergirl-the-forest-temple",
@@ -40,6 +41,7 @@
     "happy-wheels",
     "highway-traffic",
     "hole-io",
+    "ink-game",
     "jetpack-joyride",
     "jungle-mart",
     "life-sim-v1",
@@ -52,6 +54,7 @@
     "papas-tacomia",
     "pixel-path",
     "pizza-tower",
+    "pocket-champions",
     "pokemon-emerald",
     "raft-wars",
     "raft-wars-2",
@@ -59,6 +62,7 @@
     "slope",
     "snail-bob-2",
     "snow-rider-3d",
+    "soviet-sniper",
     "spewer",
     "spider-dude-parkour",
     "spiral-roll",
@@ -69,10 +73,13 @@
     "strike-force-heroes-3",
     "subway-runner-barcelona",
     "super-liquid-soccer",
+    "survival-karts",
     "tetris",
     "thorns-and-ballons",
     "troll-level",
-    "twerk-race-3d"
+    "twerk-race-3d",
+    "uno",
+    "warstrike"
   ],
   "featured": []
 }
