@@ -1,6 +1,7 @@
 # Snail Bob 2
 
 ## Overview
+
 Snail Bob 2 follows the sequel to the popular puzzle platformer. Help Bob the snail navigate through levels with creative mechanics. Pull strings, activate platforms, and guide Bob safely to his destination.
 
 ## Game Information
@@ -10,13 +11,21 @@ Snail Bob 2 follows the sequel to the popular puzzle platformer. Help Bob the sn
 **Developer:** Aperi-Peri
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

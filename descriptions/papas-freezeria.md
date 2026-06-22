@@ -1,6 +1,7 @@
 # Papa's Freezeria
 
 ## Overview
+
 Papa's Freezeria is a frozen dessert restaurant management game. Serve customers ice cream and smoothies by taking orders, blending ingredients, and adding toppings. Earn money and unlock special items.
 
 ## Game Information
@@ -10,13 +11,21 @@ Papa's Freezeria is a frozen dessert restaurant management game. Serve customers
 **Developer:** Flipline Studios
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

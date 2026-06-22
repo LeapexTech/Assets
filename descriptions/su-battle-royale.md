@@ -1,6 +1,7 @@
 # SU Battle Royale
 
 ## Overview
+
 SU Battle Royale is a battle royale game featuring Steven Universe characters. Fight to be the last one standing in this fun crossover game. Collect items, battle opponents, and claim victory.
 
 ## Game Information
@@ -10,13 +11,21 @@ SU Battle Royale is a battle royale game featuring Steven Universe characters. F
 **Developer:** Unknown
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

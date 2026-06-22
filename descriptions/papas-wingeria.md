@@ -1,6 +1,7 @@
 # Papa's Wingeria
 
 ## Overview
+
 Papa's Wingeria puts you in charge of a chicken wing restaurant. Season, cook, and plate wings according to customer orders. Manage multiple cooking stations and keep up with the rush.
 
 ## Game Information
@@ -10,13 +11,21 @@ Papa's Wingeria puts you in charge of a chicken wing restaurant. Season, cook, a
 **Developer:** Flipline Studios
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

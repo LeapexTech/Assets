@@ -1,6 +1,7 @@
 # Boxhead
 
 ## Overview
+
 Boxhead is an action-packed shooting game where you defend yourself against waves of enemies in various arenas. Use weapons and power-ups to survive as long as possible. Dodge obstacles and strategically position yourself to maximize your survival.
 
 ## Game Information
@@ -10,13 +11,21 @@ Boxhead is an action-packed shooting game where you defend yourself against wave
 **Developer:** Unknown
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

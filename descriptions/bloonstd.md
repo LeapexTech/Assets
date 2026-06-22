@@ -1,6 +1,7 @@
 # Bloons Tower Defense
 
 ## Overview
+
 Bloons Tower Defense is a strategy game where you place towers to pop balloon enemies. Defend your path by strategically positioning monkey towers to stop waves of balloons from reaching the end. With multiple towers, upgrades, and difficulty levels, this game offers hours of strategic gameplay.
 
 ## Game Information
@@ -10,13 +11,21 @@ Bloons Tower Defense is a strategy game where you place towers to pop balloon en
 **Developer:** Ninja Kiwi
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

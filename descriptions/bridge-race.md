@@ -1,17 +1,21 @@
-# Bridge Race is an engaging and competitive mobile  game developed by Supersonic Studios LTD, where players collect colored blocks to construct bridges and outpace their opponents to the finish line. With over 1,000 levels featuring diverse mechanisms like sliders, trampolines, zip lines, ladders, and elevators, the game offers a dynamic and challenging experience.
+# Bridge Race
 
 ## Overview
+
+Bridge Race is an engaging and competitive mobile game developed by Supersonic Studios, where players collect colored blocks to construct bridges and outpace their opponents to the finish line. With over 1,000 levels featuring diverse mechanisms like sliders, trampolines, zip lines, ladders, and elevators, the game offers a dynamic and challenging experience.
+
 Customization is a key aspect of Bridge Race, allowing players to personalize their characters and blocks with over 80 character types, 30 block designs, and 30 color options. This personalization enhances the gaming experience, making each player's journey unique.
 
 For fans of competitive and strategic gameplay, Bridge Race shares similarities with titles like Race Survival Arena King and Ragdoll Archers, where players must outmaneuver opponents in dynamic environments. Additionally, those who enjoy the customization and progression elements in Bridge Race might find Kart Bros appealing, as it offers personalized racing experiences.
 
 ## Game Information
 
-**Genre:** Driving & Racing
+**Genre:** Racing / Arcade
 
-**Developer:** Bridge Race
+**Developer:** Supersonic Studios
 
 ## Features
+
 - Fast-paced gameplay
 - Multiple game modes
 - Customizable options
@@ -19,9 +23,11 @@ For fans of competitive and strategic gameplay, Bridge Race shares similarities 
 - Replayability
 
 ## How to Play
+
 Use the controls listed below to navigate and interact with the game. Complete objectives, overcome challenges, and progress through various levels. Master the mechanics to achieve higher scores.
 
 ## Controls
+
 - Use arrow keys to move
 - Use mouse for interactions
 - Press spacebar to interact

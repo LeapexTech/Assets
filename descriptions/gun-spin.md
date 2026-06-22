@@ -1,6 +1,7 @@
 # Gun Spin
 
 ## Overview
+
 Gun Spin is a fast-paced arcade action game with spinning mechanics. Time your moves and spins to hit targets and defeat enemies. The minimalist gameplay combined with addictive mechanics makes it highly replayable.
 
 ## Game Information
@@ -10,13 +11,21 @@ Gun Spin is a fast-paced arcade action game with spinning mechanics. Time your m
 **Developer:** Unknown
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

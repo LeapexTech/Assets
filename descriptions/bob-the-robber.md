@@ -1,6 +1,7 @@
 # Bob The Robber
 
 ## Overview
+
 Bob The Robber is an adventure game where you help Bob achieve his goals through various missions. Solve puzzles, crack safes, and complete heists while avoiding security. The game combines stealth, puzzles, and strategy.
 
 ## Game Information
@@ -10,13 +11,21 @@ Bob The Robber is an adventure game where you help Bob achieve his goals through
 **Developer:** TinyDogGames
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

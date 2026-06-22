@@ -1,17 +1,21 @@
-# Twerk Race 3D is an engaging and humorous running  game that combines obstacle courses with dance battles. Players navigate through dynamic tracks, collecting various foods that influence their character's physique—indulging in high-calorie snacks like burgers and donuts increases size, while healthier options like salads slim them down. This strategic choice impacts the player's ability to overcome obstacles and ultimately determines success in the final twerking showdown.
+# Twerk Race 3D
 
 ## Overview
+
+Twerk Race 3D is an engaging and humorous running game that combines obstacle courses with dance battles. Players navigate through dynamic tracks, collecting various foods that influence their character's physique—indulging in high-calorie snacks like burgers and donuts increases size, while healthier options like salads slim them down.
+
 The game features a variety of challenging obstacles, including fragile glass platforms, barriers with different-sized holes, and slides, requiring players to adapt their size and strategy accordingly. Each level culminates in an epic twerking battle, where the player's accumulated size and strength are put to the test against opponents in a dance-off to claim victory.
 
-For fans of dynamic and entertaining  games, titles like CrazyCattle3D and Obby But Youre On A Bike offer similarly engaging experiences. Additionally, Spider Dude Parkour provides thrilling parkour challenges that test agility and reflexes.
+For fans of dynamic and entertaining games, titles like CrazyCattle3D and Obby But Youre On A Bike offer similarly engaging experiences. Additionally, Spider Dude Parkour provides thrilling parkour challenges that test agility and reflexes.
 
 ## Game Information
 
-**Genre:** Casual
+**Genre:** Racing / Arcade
 
-**Developer:** Twerk Race 3d
+**Developer:** Freeplay LLC
 
 ## Features
+
 - Fast-paced gameplay
 - Multiple game modes
 - Customizable options
@@ -19,9 +23,11 @@ For fans of dynamic and entertaining  games, titles like CrazyCattle3D and Obby
 - Replayability
 
 ## How to Play
+
 Use the controls listed below to navigate and interact with the game. Complete objectives, overcome challenges, and progress through various levels. Master the mechanics to achieve higher scores.
 
 ## Controls
+
 - Use arrow keys to move
 - Use mouse for interactions
 - Press spacebar to interact

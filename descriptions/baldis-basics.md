@@ -1,6 +1,7 @@
 # Baldi's Basics
 
 ## Overview
+
 Baldi's Basics is a parody of educational games that combines elements of classic school-themed games with a creepy atmosphere. Navigate through school hallways, collect notebooks, and avoid Baldi. The game features quirky characters and unexpected twists that make it both funny and unsettling.
 
 ## Game Information
@@ -10,13 +11,21 @@ Baldi's Basics is a parody of educational games that combines elements of classi
 **Developer:** Micah McGonigal
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

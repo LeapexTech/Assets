@@ -1,34 +1,46 @@
-# Edys Car Simulator
+# Edy's Car Simulator
 
 ## Overview
 
-Edy’s Car Simulator is a  game for car lovers with realistic controls and a variety of cars to choose from.
+Edy's Car Simulator is a realistic driving sandbox built around detailed vehicle physics. Explore an open environment, test different cars, experiment with stunts, and study how suspension, weight transfer, and handling behave under load.
 
 ## Game Information
 
-**Genre:** Casual
+**Genre:** Simulation / Driving
 
-**Developer:** Duck
+**Developer:** Edy
 
 ## Features
 
-- Engaging gameplay
-- Multiple levels and challenges
-- Intuitive controls
-- Fun and entertaining experience
+- Realistic vehicle physics simulation
+- Multiple drivable cars to test
+- Open-world exploration and stunt testing
+- Slow-motion and telemetry tools
+- Damage and repair mechanics
 
 ## How to Play
 
-Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+Drive freely around the environment, switch between vehicles, and use the built-in tools to test handling, perform stunts, or study crashes. Experiment with slow motion and telemetry to see how the physics engine responds.
 
 ## Controls
 
-- WSAD or arrows to throttle, brake, steer Space for Handbrake Enter to reset the  vehicle (e.g. if it rolls over) C to Change the camera Tab or Page Up / Page Down to select a vehicle 1,2,3,4,5 - to select a specific vehicle E - Makes the gray stone “jump”. Useful for load tests R - Repair vehicle damage T - Slow motion time mode on/off P - Pause  vehicles. Camera and vehicle selection can be used while paused. Y - Show/Hide telemetry Shift + Y - Change Telemetry mode. Shift + Esc or Shift + R - Reset scene
+- WASD or arrow keys to throttle, brake, and steer
+- Spacebar for handbrake
+- Enter to reset the vehicle
+- C to change camera view
+- Tab or Page Up / Page Down to select a vehicle
+- Number keys 1–5 to pick a specific vehicle
+- E to move the load-test stone
+- R to repair vehicle damage
+- T to toggle slow motion
+- P to pause vehicles
+- Y to show or hide telemetry (Shift + Y to change telemetry mode)
+- Shift + Esc or Shift + R to reset the scene
 
 ## Platform Support
 
-Edys Car Simulator can be played on desktop browsers and is compatible with most modern systems including mobile devices.
+Edy's Car Simulator can be played on desktop browsers and is compatible with most modern systems including mobile devices.
 
 ## Why Play
 
-Edys Car Simulator offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.
+Edy's Car Simulator is ideal for players who enjoy realistic driving physics and open-ended experimentation rather than structured races or objectives.

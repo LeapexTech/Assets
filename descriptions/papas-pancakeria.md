@@ -1,6 +1,7 @@
 # Papa's Pancakeria
 
 ## Overview
+
 Papa's Pancakeria brings breakfast to the Papa's restaurant series. Flip pancakes, add syrup, fruit, and other toppings to satisfy customers. Manage your time and keep your customers happy in this breakfast-themed game.
 
 ## Game Information
@@ -10,13 +11,21 @@ Papa's Pancakeria brings breakfast to the Papa's restaurant series. Flip pancake
 **Developer:** Flipline Studios
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

@@ -1,6 +1,7 @@
 # Papa's Burgeria
 
 ## Overview
+
 Papa's Burgeria is a time management game where you run a burger restaurant. Take orders, cook burgers, add toppings, and serve hungry customers. Manage multiple stations and keep customers happy for tips.
 
 ## Game Information
@@ -10,13 +11,21 @@ Papa's Burgeria is a time management game where you run a burger restaurant. Tak
 **Developer:** Flipline Studios
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

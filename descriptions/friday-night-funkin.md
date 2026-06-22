@@ -10,7 +10,7 @@ For enthusiasts of rhythm-based challenges, games like The Impossible Quiz and O
 
 ## Game Information
 
-**Genre:** Casual
+**Genre:** Rhythm
 
 **Developer:** The Funkin' Crew Inc.
 
@@ -31,7 +31,7 @@ Navigate through the game using your keyboard and mouse. Complete objectives, ov
 - Arrow keys to play
 - Enter to select
 - Esc to exit
-- to increase volume
+- Plus and minus keys to adjust volume
 
 ## Platform Support
 

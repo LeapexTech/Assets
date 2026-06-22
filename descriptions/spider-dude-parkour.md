@@ -2,7 +2,7 @@
 
 ## Overview
 
-Spider Dude Parkour is an exhilarating  browser-based game that immerses players in the role of a masked parkour expert navigating a sprawling urban skyline. With only your web-slinging abilities and sharp reflexes, you'll dash across rooftops, leap between towering buildings, and evade perilous falls.
+Spider Dude Parkour is an exhilarating browser-based game that immerses players in the role of a masked parkour expert navigating a sprawling urban skyline. With only your web-slinging abilities and sharp reflexes, you'll dash across rooftops, leap between towering buildings, and evade perilous falls.
 
 Dynamic Urban Environment: Each level presents unique challenges, from spinning traps to crumbling ledges, requiring precise timing and agility.
 

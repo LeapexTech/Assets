@@ -1,6 +1,7 @@
 # Strike Force Heroes 2
 
 ## Overview
+
 Strike Force Heroes 2 expands the action with new soldiers, weapons, and missions. Build your elite squad and complete challenging objectives. Enhanced graphics and deeper gameplay systems.
 
 ## Game Information
@@ -10,13 +11,21 @@ Strike Force Heroes 2 expands the action with new soldiers, weapons, and mission
 **Developer:** Sky9 Games
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

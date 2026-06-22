@@ -8,7 +8,7 @@ An engaging game experience.
 
 **Genre:** Casual
 
-**Developer:** Duck
+**Developer:** FreezeNova Games
 
 ## Features
 

@@ -1,6 +1,7 @@
 # Bloxorz
 
 ## Overview
+
 Bloxorz is a puzzle game where you control a rectangular block through maze-like levels. Roll the block to reach the end of each level while avoiding obstacles and hazards. The puzzle mechanics become increasingly complex as you progress through different stages.
 
 ## Game Information
@@ -10,13 +11,21 @@ Bloxorz is a puzzle game where you control a rectangular block through maze-like
 **Developer:** Dizzy Media
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

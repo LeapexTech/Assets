@@ -2,9 +2,9 @@
 
 ## Overview
 
-2D Fortnite is an innovative adaptation of the popular  battle royale game, reimagined in a two-dimensional format. This version offers a unique side-scrolling experience, combining the core mechanics of Fortnite with the nostalgic appeal of 2D gameplay. Players can engage in fast-paced matches, utilizing a variety of weapons and building strategies to outlast opponents in a dynamic, ever-shrinking battlefield.
+2D Fortnite is an innovative adaptation of the popular battle royale game, reimagined in a two-dimensional format. This version offers a unique side-scrolling experience, combining the core mechanics of Fortnite with the nostalgic appeal of 2D gameplay. Players can engage in fast-paced matches, utilizing a variety of weapons and building strategies to outlast opponents in a dynamic, ever-shrinking battlefield.
 
-For fans of side-scrolling  action, 2D Fortnite shares similarities with other engaging titles. For instance, Ragdoll Archers offers a unique 2D archery combat experience, while Deadly Descent challenges players with intense platforming and survival elements. Exploring these games can provide additional thrilling experiences within the 2D gaming landscape.
+For fans of side-scrolling action, 2D Fortnite shares similarities with other engaging titles. For instance, Ragdoll Archers offers a unique 2D archery combat experience, while Deadly Descent challenges players with intense platforming and survival elements. Exploring these games can provide additional thrilling experiences within the 2D gaming landscape.
 
 ## Game Information
 

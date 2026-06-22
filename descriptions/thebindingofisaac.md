@@ -2,9 +2,9 @@
 
 ## Overview
 
-The Binding of Isaac is a critically acclaimed roguelike dungeon crawler that immerses players in a dark and challenging world. In this  game, players control Isaac, a young boy who escapes into a monster-filled basement to evade his mother's intent to sacrifice him. The game is renowned for its procedurally generated levels, ensuring a unique experience with each playthrough.
+The Binding of Isaac is a critically acclaimed roguelike dungeon crawler that immerses players in a dark and challenging world. In this game, players control Isaac, a young boy who escapes into a monster-filled basement to evade his mother's intent to sacrifice him. The game is renowned for its procedurally generated levels, ensuring a unique experience with each playthrough.
 
-For fans of horror-themed  games, Five Nights At Freddy's and Granny provide similarly intense experiences. These games, like The Binding of Isaac, challenge players to navigate perilous environments while managing limited resources, making them appealing to those who enjoy high-stakes gameplay.
+For fans of horror-themed games, Five Nights At Freddy's and Granny provide similarly intense experiences. These games, like The Binding of Isaac, challenge players to navigate perilous environments while managing limited resources, making them appealing to those who enjoy high-stakes gameplay.
 
 ## Game Information
 

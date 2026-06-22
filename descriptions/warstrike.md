@@ -2,7 +2,7 @@
 
 ## Overview
 
-WarStrike is a 3D FPS  game that offers both exciting multiplayer TD battles and an engaging campaign mode with 4 chapters, each with 6 missions.
+WarStrike is a 3D FPS game that offers both exciting multiplayer TD battles and an engaging campaign mode with 4 chapters, each with 6 missions.
 
 ## Game Information
 
@@ -23,7 +23,7 @@ Navigate through the game using your keyboard and mouse. Complete objectives, ov
 
 ## Controls
 
-- Move: WASD keys Jump: Spacebar Left Shift: Run Aim: Right Mouse Button Shoot: Left Mouse Button Reload: R key Crouch: C key Change Weapon: 1 and 2 keys Melee Attack: Q key or 3 key Pick-up Weapon: E Throw Grenade: G key or 4 Key Use Medkit: H Use Pill: J Unlock Cursor: L Pause  Game: Tab key
+- Move: WASD keys Jump: Spacebar Left Shift: Run Aim: Right Mouse Button Shoot: Left Mouse Button Reload: R key Crouch: C key Change Weapon: 1 and 2 keys Melee Attack: Q key or 3 key Pick-up Weapon: E Throw Grenade: G key or 4 Key Use Medkit: H Use Pill: J Unlock Cursor: L Pause Game: Tab key
 
 ## Platform Support
 

@@ -1,6 +1,7 @@
 # Bloons Tower Defense 5
 
 ## Overview
+
 Bloons Tower Defense 5 is the fifth major installment featuring enhanced graphics and gameplay. Place towers strategically to defend against waves of balloons with new tower types and abilities. Experience deep strategic gameplay with multiple difficulty levels.
 
 ## Game Information
@@ -10,13 +11,21 @@ Bloons Tower Defense 5 is the fifth major installment featuring enhanced graphic
 **Developer:** Ninja Kiwi
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

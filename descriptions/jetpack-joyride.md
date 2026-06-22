@@ -1,6 +1,8 @@
-# Jetpack Joyride is an exhilarating endless runner  game developed by Halfbrick Studios, featuring the charismatic protagonist Barry Steakfries. Players guide Barry as he commandeers a bullet-powered jetpack from a secret laboratory, navigating through a series of obstacles including zappers, missiles, and laser beams. The game's intuitive one-touch controls allow Barry to ascend by activating the jetpack and descend by releasing it, making it accessible yet challenging. Throughout the journey, players can collect coins to purchase various jetpacks, costumes, and power-ups, enhancing the gameplay experience.
+# Jetpack Joyride
 
 ## Overview
+
+Jetpack Joyride is an exhilarating endless runner game developed by Halfbrick Studios, featuring the charismatic protagonist Barry Steakfries. Players guide Barry as he commandeers a bullet-powered jetpack from a secret laboratory, navigating through a series of obstacles including zappers, missiles, and laser beams. The game's intuitive one-touch controls allow Barry to ascend by activating the jetpack and descend by releasing it, making it accessible yet challenging. Throughout the journey, players can collect coins to purchase various jetpacks, costumes, and power-ups, enhancing the gameplay experience.
 
 In addition to the core mechanics, Jetpack Joyride offers a variety of vehicles such as the "Bad As Hog" motorcycle and the "Lil Stomper" mech suit, each providing unique advantages. The game also features missions and achievements that encourage players to complete specific tasks, adding depth and replayability. Regular updates have introduced new content, including the "S.A.M." (Strong Arm Machine) vehicle and seasonal events, keeping the game fresh and engaging for long-time fans.
 
@@ -26,9 +28,9 @@ Use the controls listed below to navigate and interact with the game. Complete o
 
 ## Controls
 
-- Use arrow keys to move
-- Use mouse for interactions
-- Press spacebar to interact
+- Mouse click or hold to activate the jetpack
+- Release to descend
+- Arrow keys or mouse for menu navigation
 
 ## Platform Support
 
@@ -36,4 +38,4 @@ Jetpack Joyride can be played on desktop browsers and is compatible with most mo
 
 ## Why Play
 
-Jetpack Joyride offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.
+Jetpack Joyride delivers fast-paced endless runner action with collectible upgrades, vehicles, and missions that keep each run fresh.

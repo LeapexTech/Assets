@@ -1,6 +1,7 @@
 # Bloons Tower Defense 2
 
 ## Overview
+
 The sequel to Bloons Tower Defense brings more towers, more challenges, and deeper strategy. Place various monkey towers to defend against increasing waves of balloons. Unlock new towers and master upgrades to handle the toughest waves.
 
 ## Game Information
@@ -10,13 +11,21 @@ The sequel to Bloons Tower Defense brings more towers, more challenges, and deep
 **Developer:** Ninja Kiwi
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

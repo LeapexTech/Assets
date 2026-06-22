@@ -1,39 +1,39 @@
-# Dune: Awakening is an immersive survival MMO developed by Funcom, set in the expansive universe of Frank Herbert's "Dune." Released for Windows on June 10, 2025, with early access beginning on June 5, the game invites players to navigate the perilous desert planet of Arrakis. As "The Sleeper," players gather resources, evade colossal sandworms, and establish their own guilds to control the coveted spice melange. The game features open-world survival mechanics, base building, and a strong emphasis on environmental hazards like sandstorms. Combat spans melee, ranged, vehicle-based, and magic-like abilities. Players can align with major in-game powers and encounter iconic characters from the Dune franchise.
+# Dune!
 
 ## Overview
 
-In response to community feedback, Funcom has implemented significant updates to enhance gameplay. Notably, the Deep Desert region, previously dominated by player-versus-player (PvP) interactions, has been restructured to balance PvP and player-versus-environment (PvE) experiences. This change allows players to engage in high-stakes resource gathering without mandatory PvP encounters.
+Dune! is a hyper-casual arcade game developed by Voodoo where you control a ball surfing across endless sand dunes. Hold to dive down slopes, release to launch into the air, and land smoothly to build momentum and score points. The higher you fly, the more points you earn — but land too hard or miss the slope and your run ends.
 
-Looking ahead, Funcom has outlined a comprehensive roadmap for "Dune: Awakening," promising major free updates every three to four months. These updates will introduce new storylines, PvE content, and quality-of-life improvements. Additionally, paid DLCs, such as "The Lost Harvest," are set to expand the game's universe with new vehicles, customization options, and unique missions. This commitment to regular content ensures a dynamic and evolving experience for players.
+The game is easy to pick up with one-touch controls, yet mastering the rhythm between diving, jumping, and landing takes real skill. Each dune is a chance to chain smooth landings and push your score higher in this endlessly replayable desert runner.
 
 ## Game Information
 
-**Genre:** Casual
+**Genre:** Arcade
 
-**Developer:** Dune
+**Developer:** Voodoo
 
 ## Features
 
-- Fast-paced gameplay
-- Multiple game modes
-- Customizable options
-- Engaging challenges
-- Replayability
+- One-touch dive-and-jump mechanics
+- Physics-based sand dune surfing
+- Endless procedurally generated terrain
+- Score chasing with risk-reward aerial jumps
+- Simple controls with a high skill ceiling
 
 ## How to Play
 
-Use the controls listed below to navigate and interact with the game. Complete objectives, overcome challenges, and progress through various levels. Master the mechanics to achieve higher scores.
+Press and hold to dive down a dune, building speed as you roll. Release at the right moment to launch off the peak and soar into the air. Land smoothly on a downward slope to keep your run alive and rack up points. The higher you jump, the bigger the reward — but a bad landing ends the run instantly.
 
 ## Controls
 
-- Use arrow keys to move
-- Use mouse for interactions
-- Press spacebar to interact
+- Hold mouse button or tap to dive
+- Release to jump off a dune
+- Time landings on downward slopes to maintain momentum
 
 ## Platform Support
 
-Dune: Awakening can be played on desktop browsers and is compatible with most modern systems including mobile devices.
+Dune! can be played on desktop browsers and is compatible with most modern systems including mobile devices.
 
 ## Why Play
 
-Dune: Awakening offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.
+Dune! delivers a satisfying loop of speed, timing, and risk in a minimalist package. It is perfect for quick sessions when you want something easy to start but hard to master.

@@ -1,6 +1,7 @@
 # Boxhead 2 Player
 
 ## Overview
+
 Boxhead 2 Player brings cooperative and competitive gameplay to the action-shooting genre. Team up with a friend or compete against them while fighting waves of enemies. Battle through different arenas with unique challenges.
 
 ## Game Information
@@ -10,13 +11,21 @@ Boxhead 2 Player brings cooperative and competitive gameplay to the action-shoot
 **Developer:** Unknown
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

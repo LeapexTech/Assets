@@ -2,7 +2,7 @@
 
 ## Overview
 
-Pizza Tower is a fast-paced 2D platformer developed by indie studio Tour De Pizza, released on January 26, 2023, for Windows and later for  Nintendo Switch on August 27, 2024. The  game follows Peppino Spaghetti, a surprisingly agile and powerful  Italian chef, on a mission to destroy the titular Pizza Tower to save his restaurant from annihilation. Players navigate through wacky floors of the tower, collecting toppings, defeating monsters, and uncovering secrets.
+Pizza Tower is a fast-paced 2D platformer developed by indie studio Tour De Pizza, released on January 26, 2023, for Windows and later for Nintendo Switch on August 27, 2024. The game follows Peppino Spaghetti, a surprisingly agile and powerful Italian chef, on a mission to destroy the titular Pizza Tower to save his restaurant from annihilation. Players navigate through wacky floors of the tower, collecting toppings, defeating monsters, and uncovering secrets.
 
 For fans of platformers with unique art styles and engaging gameplay, Hollow Knight offers a rich, atmospheric experience, while Obby But Youre On A Bike provides a challenging obstacle course adventure. Additionally, Five Nights At Freddys Pizzeria Simulator delivers a thrilling management and survival horror experience set in a pizzeria environment.
 

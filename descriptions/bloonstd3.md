@@ -1,6 +1,7 @@
 # Bloons Tower Defense 3
 
 ## Overview
+
 Bloons Tower Defense 3 expands the series with additional towers, abilities, and game modes. Face increasingly challenging balloon waves with strategic tower placement and upgrades. The third installment offers more variety and replayability.
 
 ## Game Information
@@ -10,13 +11,21 @@ Bloons Tower Defense 3 expands the series with additional towers, abilities, and
 **Developer:** Ninja Kiwi
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

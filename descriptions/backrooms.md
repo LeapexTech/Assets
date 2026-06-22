@@ -2,17 +2,17 @@
 
 ## Overview
 
-"Backrooms" is an immersive horror  game that plunges players into an abandoned liminal space, where reality blurs and the past lingers ominously. Developed by Cynical Revolution, this game invites players to explore desolate streets and uncover the dark secrets that led to the area's abandonment. As you navigate through the eerie environment, you'll encounter unpredictable supernatural entities and face psychological horror elements that challenge your perception of reality. The game's ambient soundscape and chilling visuals create a palpable sense of dread, making every corner and hallway a potential source of terror.Games
+"Backrooms" is an immersive horror game that plunges players into an abandoned liminal space, where reality blurs and the past lingers ominously. Developed by Cynical Revolution, this game invites players to explore desolate streets and uncover the dark secrets that led to the area's abandonment. As you navigate through the eerie environment, you'll encounter unpredictable supernatural entities and face psychological horror elements that challenge your perception of reality. The game's ambient soundscape and chilling visuals create a palpable sense of dread, making every corner and hallway a potential source of terror.
 
 For fans of survival horror experiences, "Backrooms" offers a unique blend of exploration-based gameplay and dynamic encounters. Players must use their wits to evade entities, as direct confrontation is rarely an option. The game also features environmental storytelling, with journals, photographs, and artifacts scattered throughout the levels, allowing players to piece together the history of the suburb and the malevolent force that lingers.
 
-If you enjoy the suspense and challenge of "Backrooms," you might also be interested in other horror-themed  games available on our platform. For instance, Five Nights At Freddys Pizzeria Simulator offers a unique blend of strategy and horror, where players manage a pizzeria while dealing with animatronic threats. Similarly, Granny provides a tense escape-room experience, requiring players to solve  puzzles and evade a relentless pursuer. Additionally, The Binding of Isaac combines roguelike elements with a dark, atmospheric narrative, offering a challenging and replayable experience.
+If you enjoy the suspense and challenge of "Backrooms," you might also be interested in other horror-themed games available on our platform. For instance, Five Nights At Freddys Pizzeria Simulator offers a unique blend of strategy and horror, where players manage a pizzeria while dealing with animatronic threats. Similarly, Granny provides a tense escape-room experience, requiring players to solve puzzles and evade a relentless pursuer. Additionally, The Binding of Isaac combines roguelike elements with a dark, atmospheric narrative, offering a challenging and replayable experience.
 
 ## Game Information
 
-**Genre:** Strategy
+**Genre:** Horror / Survival
 
-**Developer:** Esyverse
+**Developer:** Cynical Revolution
 
 ## Features
 

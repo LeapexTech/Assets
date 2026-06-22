@@ -1,6 +1,7 @@
 # Burrito Bison Flash
 
 ## Overview
+
 Burrito Bison is a fun casual game where you launch a burrito-powered character to knock down candy piñatas. Perform stunts, collect candy, and upgrade your burritos for bigger impacts. The more you play, the farther you can go.
 
 ## Game Information
@@ -10,13 +11,21 @@ Burrito Bison is a fun casual game where you launch a burrito-powered character 
 **Developer:** Unknown
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

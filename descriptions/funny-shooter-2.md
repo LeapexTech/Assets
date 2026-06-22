@@ -2,7 +2,7 @@
 
 ## Overview
 
-Funny  Shooter 2 is an engaging first-person  shooter (FPS)  game that combines fast-paced action with a touch of humor. Players navigate through vibrant, multicolored environments, battling a variety of quirky enemies ranging from redmen to toiletmen and giants. The game offers a diverse arsenal of weapons, including pistols, SMGs, grenade launchers, RPGs, snipers, and light machine guns, allowing players to tailor their combat style. As players progress, they encounter new enemy types and challenging bosses every ten levels, ensuring a dynamic and evolving gameplay experience.
+Funny Shooter 2 is an engaging first-person shooter (FPS) game that combines fast-paced action with a touch of humor. Players navigate through vibrant, multicolored environments, battling a variety of quirky enemies ranging from redmen to toiletmen and giants. The game offers a diverse arsenal of weapons, including pistols, SMGs, grenade launchers, RPGs, snipers, and light machine guns, allowing players to tailor their combat style. As players progress, they encounter new enemy types and challenging bosses every ten levels, ensuring a dynamic and evolving gameplay experience.
 
 In addition to its engaging combat mechanics, Funny Shooter 2 features a comprehensive shop where players can purchase new weapons and customize them with various attachments. The game also includes an achievement system, rewarding players with gold for reaching specific milestones, which can be used to upgrade weapons and enhance character abilities. The combination of smooth gameplay, impressive 3D graphics, and a variety of bizarre enemies contributes to the game's unique appeal.
 

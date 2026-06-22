@@ -10,9 +10,9 @@ Players can assume different roles, customize their avatars, and engage in vario
 
 ## Game Information
 
-**Genre:** Casual
+**Genre:** Role-Playing / Simulation
 
-**Developer:** Brookhaven
+**Developer:** Wolfpaq
 
 ## Features
 

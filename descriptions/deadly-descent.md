@@ -1,6 +1,8 @@
-# Deadly Descent is an upcoming cooperative horror looting  game developed by Neuro Solutions. Set in procedurally generated liminal spaces, players assume the role of robots owned by the Neuro Solutions corporation, tasked with descending into various levels to collect valuable loot while evading menacing monsters. The primary objective is to meet a quota every three days; failure to do so results in the player's disposal. As players delve deeper, the challenges intensify, but so do the rewards, offering a high-risk, high-reward gameplay experience.
+# Deadly Descent
 
 ## Overview
+
+Deadly Descent is an upcoming cooperative horror looting game developed by Neuro Solutions. Set in procedurally generated liminal spaces, players assume the role of robots owned by the Neuro Solutions corporation, tasked with descending into various levels to collect valuable loot while evading menacing monsters. The primary objective is to meet a quota every three days; failure to do so results in the player's disposal. As players delve deeper, the challenges intensify, but so do the rewards, offering a high-risk, high-reward gameplay experience.
 
 The game supports up to four-player online co-op, allowing friends to team up and strategize their descent together. Communication is facilitated through in-game devices found within the levels, as well as a synchronized headlamp system that enables both simple and complex interactions. Players can utilize seven different tools to aid their exploration and survival against four unique monsters, each with distinct behaviors designed to challenge and unsettle. Between missions, the base offers opportunities to purchase and open gifts from the company, which contain useful items like flashlights or item scanners, enhancing the player's capabilities for subsequent descents.
 
@@ -8,9 +10,9 @@ For enthusiasts of cooperative horror experiences, Deadly Descent shares themati
 
 ## Game Information
 
-**Genre:** Casual
+**Genre:** Horror / Co-op
 
-**Developer:** Deadly Descent
+**Developer:** Neuro Solutions
 
 ## Features
 

@@ -4,7 +4,7 @@
 
 In Bit Planes, players can customize their aircraft and utilize a variety of weapons, upgrades, and power-ups to gain the upper hand in combat. The game features multiple planes and upgrades available through coin collection, enhancing the gameplay experience. Additionally, Bit Planes includes fun modes such as Swarm, Domination, and Revenge, offering endless variety and replayability.
 
-For fans of action-packed  games, Bit Planes shares similarities with titles like Sh3llSh0ck and Gun Spin, where players engage in intense combat scenarios requiring quick reflexes and strategic thinking. Additionally, those who enjoy the pixelated charm and fast-paced gameplay of Bit Planes might also appreciate Ultrakill, known for its retro-inspired graphics and dynamic action sequences.
+For fans of action-packed games, Bit Planes shares similarities with titles like Sh3llSh0ck and Gun Spin, where players engage in intense combat scenarios requiring quick reflexes and strategic thinking. Additionally, those who enjoy the pixelated charm and fast-paced gameplay of Bit Planes might also appreciate Ultrakill, known for its retro-inspired graphics and dynamic action sequences.
 
 ## Game Information
 

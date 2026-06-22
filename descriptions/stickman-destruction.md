@@ -8,7 +8,7 @@ In Stickman Destruction, you can blow off some steam and destroy this little man
 
 **Genre:** Casual
 
-**Developer:** Duck
+**Developer:** Sergey Mezhakov
 
 ## Features
 
@@ -23,7 +23,7 @@ Navigate through the game using your keyboard and mouse. Complete objectives, ov
 
 ## Controls
 
-- Start the  game and Move: Left CLICK (TAP) and Hold on Start Button;Games
+- Start the game and Move: Left CLICK (TAP) and Hold on Start Button
 
 ## Platform Support
 

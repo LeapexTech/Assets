@@ -2,13 +2,13 @@
 
 ## Overview
 
-Fast  Food Rush is a 3D  restaurant  game where you start small and grow your restaurant into something huge and popular!
+Fast Food Rush is a 3D restaurant game where you start small and grow your restaurant into something huge and popular!
 
 ## Game Information
 
 **Genre:** Casual
 
-**Developer:** Duck
+**Developer:** FreezeNova
 
 ## Features
 

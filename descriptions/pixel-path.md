@@ -2,7 +2,7 @@
 
 ## Overview
 
-Pixel Path is an engaging platformer that challenges players with intricate levels filled with unexpected obstacles and surprises. Released on February 20, 2025, and developed by Starodymov  Games, this  game offers a nostalgic pixel-art aesthetic combined with modern gameplay mechanics.Action & Platform Games
+Pixel Path is an engaging platformer that challenges players with intricate levels filled with unexpected obstacles and surprises. Released on February 20, 2025, and developed by Starodymov Games, this game offers a nostalgic pixel-art aesthetic combined with modern gameplay mechanics.
 
 For fans of challenging platformers, Pixel Path offers a rewarding experience that tests reflexes and problem-solving skills. Players who enjoy titles like Obby But Youre On A Bike and Spider Dude Parkour will find similar enjoyment in mastering the intricate levels of Pixel Path.
 
@@ -12,7 +12,7 @@ Since its release, Pixel Path has garnered positive feedback for its engaging le
 
 **Genre:** Platformer / Action
 
-**Developer:** AppyNation Ltd.
+**Developer:** Starodymov Games
 
 ## Features
 

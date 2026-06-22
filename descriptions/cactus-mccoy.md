@@ -1,6 +1,7 @@
 # Cactus McCoy
 
 ## Overview
+
 Cactus McCoy is an action-adventure game featuring a gunslinger cactus character. Battle enemies, solve puzzles, and work your way through various levels. Use weapons and abilities to defeat enemies and overcome obstacles.
 
 ## Game Information
@@ -10,13 +11,21 @@ Cactus McCoy is an action-adventure game featuring a gunslinger cactus character
 **Developer:** Spooky House Studios
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

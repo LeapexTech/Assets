@@ -2,7 +2,7 @@
 
 ## Overview
 
-Pocket Champs is an engaging multiplayer idle  racing game where players train their unique Champs to compete in dynamic races. By focusing on enhancing skills such as running, swimming, flying, and climbing, players can develop tailored strategies to outpace global competitors. The  game offers a variety of gadgets, ranging from common to legendary, that provide strategic advantages during races. Regular updates introduce new content, including themed events and challenges, ensuring a fresh and exciting experience for all players.
+Pocket Champs is an engaging multiplayer idle racing game where players train their unique Champs to compete in dynamic races. By focusing on enhancing skills such as running, swimming, flying, and climbing, players can develop tailored strategies to outpace global competitors. The game offers a variety of gadgets, ranging from common to legendary, that provide strategic advantages during races. Regular updates introduce new content, including themed events and challenges, ensuring a fresh and exciting experience for all players.
 
 For fans of strategic and competitive gameplay, Pocket Champs shares similarities with titles like Clash Royale, where players engage in real-time strategy battles, and Growden IO, which emphasizes growth and competition in an online arena. Additionally, the game's focus on training and progression resonates with Idle Ants, where players oversee and enhance their colony's capabilities over time.
 

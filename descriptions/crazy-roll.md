@@ -1,6 +1,7 @@
 # Crazy Roll
 
 ## Overview
+
 Crazy Roll is a puzzle game where you control a rolling object through various levels. Navigate through mazes and obstacles by rotating and rolling your character. Each level presents new challenges and mechanics.
 
 ## Game Information
@@ -10,13 +11,21 @@ Crazy Roll is a puzzle game where you control a rolling object through various l
 **Developer:** Unknown
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 

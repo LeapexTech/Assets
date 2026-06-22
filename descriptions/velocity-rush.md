@@ -1,6 +1,7 @@
 # Velocity Rush
 
 ## Overview
+
 Use the controls listed below to navigate and interact with the game. Complete objectives, overcome challenges, and progress through various levels. Master the mechanics to achieve higher scores.
 
 ## Game Information
@@ -10,6 +11,7 @@ Use the controls listed below to navigate and interact with the game. Complete o
 **Developer:** Unknown
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels
 - Fun challenges
@@ -17,9 +19,11 @@ Use the controls listed below to navigate and interact with the game. Complete o
 - Great entertainment value
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Enjoy the gameplay experience at your own pace.
 
 ## Controls
+
 - Arrow keys to move
 - Mouse for interactions
 - Spacebar to interact or confirm

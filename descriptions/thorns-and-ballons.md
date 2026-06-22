@@ -1,4 +1,4 @@
-# Thorns And Ballons
+# Thorns and Balloons
 
 ## Overview
 
@@ -8,7 +8,7 @@ For fans of physics-based puzzle games, Thorn and Balloons shares similarities w
 
 ## Game Information
 
-**Genre:** Casual
+**Genre:** Puzzle / Physics
 
 **Developer:** Fun Space Limited
 
@@ -34,8 +34,8 @@ Navigate through the game using your keyboard and mouse. Complete objectives, ov
 
 ## Platform Support
 
-Thorns And Ballons can be played on desktop browsers and is compatible with most modern systems including mobile devices.
+Thorns and Balloons can be played on desktop browsers and is compatible with most modern systems including mobile devices.
 
 ## Why Play
 
-Thorns And Ballons offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.
+Thorns and Balloons offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.

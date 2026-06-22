@@ -2,30 +2,30 @@
 
 ## Overview
 
-In Davo, you jump from one platform to the next, to clear the levels which are marked once, you turn the red flag at the end of each level, green, by passing through it.Action & Platform Games
+Davo is a 2D parkour platformer where you jump from platform to platform to clear each level. Reach the red flag at the end of every stage and pass through it to turn it green and complete the level.
 
 ## Game Information
 
-**Genre:** Casual
+**Genre:** Platformer / Parkour
 
-**Developer:** Duck
+**Developer:** Unknown
 
 ## Features
 
-- Engaging gameplay
-- Multiple levels and challenges
-- Intuitive controls
-- Fun and entertaining experience
+- Side-scrolling platformer levels
+- Jump and slide mechanics
+- Progressive level challenges
+- Simple, responsive controls
 
 ## How to Play
 
-Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+Run through each level, timing your jumps and slides to cross gaps and reach the flag at the end. Pass through the flag to complete the stage and move on to the next challenge.
 
 ## Controls
 
-- Move: AD / ⬅️➡️;
-- Jump: W / ⬆️;
-- Slide: S / ⬇️;
+- A/D or left/right arrow keys to move
+- W or up arrow key to jump
+- S or down arrow key to slide
 
 ## Platform Support
 
@@ -33,4 +33,4 @@ Davo can be played on desktop browsers and is compatible with most modern system
 
 ## Why Play
 
-Davo offers an engaging experience with dynamic gameplay and various challenges. Perfect for both casual gaming and competitive play, this game provides entertainment for players of all skill levels.
+Davo offers quick, skill-based platforming levels that reward precise movement and good timing.

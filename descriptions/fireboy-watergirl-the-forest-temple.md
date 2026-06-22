@@ -1,6 +1,7 @@
 # Fireboy & Watergirl in the Forest Temple
 
 ## Overview
+
 Join Fireboy and Watergirl on an adventure through the Forest Temple. Solve puzzles, navigate platforms, and avoid hazards by controlling both characters. The forest setting brings new environmental challenges to the series.
 
 ## Game Information
@@ -10,13 +11,21 @@ Join Fireboy and Watergirl on an adventure through the Forest Temple. Solve puzz
 **Developer:** Oslo Albet
 
 ## Features
+
 - Engaging gameplay
 - Multiple levels and challenges
 - Intuitive controls
 - Fun and entertaining experience
 
 ## How to Play
+
 Navigate through the game using your keyboard and mouse. Complete objectives, overcome challenges, and progress through various levels. Each level presents new opportunities to improve your skills.
+
+## Controls
+
+- Arrow keys or WASD to move
+- Mouse to interact
+- Spacebar to jump or interact
 
 ## Platform Support
 
